@@ -2,7 +2,7 @@
 
 ---  
 
-_В папке files некоторые демонстрационные файлы_  
+_В папке [files](https://github.com/permCoding/StepikAPI/tree/master/files) некоторые демонстрационные файлы_  
 
 ---  
 
