@@ -8,8 +8,8 @@ _В папке files некоторые демонстрационные фай�
 
 __Полезные ссылки:__  
 [Проект Stepik API](https://jetbrains.ru/students/practice/themes/stepik-api/)  
-[https://github.com/StepicOrg/Stepik-API/](Работа с Stepik.org API)  
-[https://stepik.org/api/docs/](Документация)  
+[Работа с Stepik.org API](https://github.com/StepicOrg/Stepik-API/)  
+[Документация](https://stepik.org/api/docs/)  
 
 ---  
 
